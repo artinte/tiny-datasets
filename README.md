@@ -9,3 +9,10 @@
 
 ![MNSIT](res/mnist_dataset_sample.png)
 
+# POS_NEG
+
+# REDDIT
+
+# IMDB
+
+https://www.imdb.com/title/tt0111161/reviews/?ref_=tt_ururv_sm 
