@@ -9,10 +9,6 @@
 
 ![MNSIT](res/mnist_dataset_sample.png)
 
-# POS_NEG
-
-# REDDIT
-
 # IMDB
 
-https://www.imdb.com/title/tt0111161/reviews/?ref_=tt_ururv_sm 
+包含 50000 条电影评论，分为正向的和负向的。
